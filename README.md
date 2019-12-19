@@ -1,1 +1,1 @@
-App converting imperial to metrical and reverse side units
+App converting metrical to imperial and reverse side unit
