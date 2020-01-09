@@ -1,6 +1,7 @@
 package com.example.converter;
 
 public class MetricToImperialConverter {
+
     public static double metersToFoot(String meter) {
         double foot = 3.2808 *  Double.parseDouble(meter);
         return foot;
